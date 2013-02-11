@@ -6,7 +6,7 @@ A bunch of people who used to have a band, we are not playing anymore (well, som
 
 ## Licensing
 
-We have decided to license our stuff under a Creative Commons licence, you might want to [check it for details](https://github.com/pote/Buena-Pregunta/blob/master/LICENSE.md).
+We have decided to license our stuff under a Creative Commons license, you might want to [check it for details](https://github.com/pote/Buena-Pregunta/blob/master/LICENSE.md).
 
 
 ## Thank you
