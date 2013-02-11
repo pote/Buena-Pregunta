@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A bunch of people and me used to have a band, we are not playing anymore (well, some of us are, and you might get some new stuff in the future) so this is a repository of finished/unfinished music we had, along with lyrics, logos and random stuff from back in the day when Buena Pregunta used to rock out every other week.
+A bunch of people who used to have a band, we are not playing anymore (well, some of us are, and you might get some new stuff in the future) so this is a repository of finished/unfinished music we had, along with lyrics, logos and random stuff from back in the day when Buena Pregunta used to rock out every other week.
 
 ## Licensing
 
